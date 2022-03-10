@@ -11,7 +11,7 @@ I created the project in Eclipse—it's the environment I'd planned to use for t
 ```
 git clone https://github.com/freret/casino-237.git
 ```
-2. Navigate (cd) to `casino-237/src`
+2. Navigate (`cd`) to `casino-237/src`
 3. Make sure I didn't screw something up:
     1. Compile the `HelloWorld` class
     ```
@@ -21,7 +21,7 @@ git clone https://github.com/freret/casino-237.git
     ```
     java init.HelloWorld
     ```
-    3. Repeat steps 3 and 4 with the `InputOutput` class, ensuring that both run smoothly. 
+    3. Repeat steps i and ii with the `InputOutput` class, ensuring that both run smoothly. 
 4. Start editing in Eclipse
     1. Open Eclipse with whichever workspace you use
     2. Select `File > Import` from the main menu
