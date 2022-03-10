@@ -15,7 +15,7 @@ git clone https://github.com/freret/casino-237.git
 3. Make sure I didn't screw something up:
     1. Compile the `HelloWorld` class
     ```
-    javac ./init/HelloWorld
+    javac ./init/HelloWorld.java
     ```
     2. Run the `HelloWorld` class
     ```
